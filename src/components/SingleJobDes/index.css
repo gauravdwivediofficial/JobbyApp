@@ -1,0 +1,30 @@
+.img {
+  height: 50px;
+}
+
+.title {
+  font-size: 20px;
+}
+
+.rating {
+  font-size: 20px;
+}
+
+.mini-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.in-mini-cont {
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+}
+
+.li-item {
+  background-color: #64748b;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
